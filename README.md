@@ -1,5 +1,3 @@
-# AI_study
-
 ## date of create repo
 2024/02/19
 

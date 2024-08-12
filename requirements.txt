@@ -1,0 +1,4 @@
+## 설치한 것
+langchain
+openai
+streamlit
